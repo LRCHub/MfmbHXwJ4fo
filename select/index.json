@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヒットソングシーズン",
+  "base_artist": "171",
+  "createdAt": "2026-03-15T20:12:32.985152Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒットソングシーズン",
+      "artist": "171",
+      "has_synced": false,
+      "path": "select/pl_01_ヒットソングシーズン_171.txt"
+    }
+  ]
+}
